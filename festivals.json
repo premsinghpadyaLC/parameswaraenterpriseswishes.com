@@ -1,0 +1,24 @@
+{
+    "festivals": [
+        {
+            "name": "Diwali",
+            "date": "2025-10-20",
+            "message": "Wishing you a joyous and prosperous Diwali! 🪔✨"
+        },
+        {
+            "name": "Holi",
+            "date": "2025-03-24",
+            "message": "Happy Holi! May your life be as colorful as the festival itself! 🎨🎉"
+        },
+        {
+            "name": "Makar Sankranti",
+            "date": "2025-01-14",
+            "message": "Wishing you a Happy Makar Sankranti! May your life soar as high as the kites! 🪁🌞"
+        },
+        {
+            "name": "Christmas",
+            "date": "2025-12-25",
+            "message": "Merry Christmas! May this season bring you peace and joy! 🎄🎁"
+        }
+    ]
+}
